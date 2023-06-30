@@ -13,3 +13,5 @@ close.addEventListener("click", () => {
 popup.addEventListener("click", () => {
   popup.style.display = "none";
 });
+
+//if you read this, please make sure to add more things here
